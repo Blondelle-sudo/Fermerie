@@ -1,0 +1,28 @@
+body{
+	background-color: white;
+}
+h2{
+	color: green;
+	margin-left: 200px;
+}
+.description{
+	font-size: 25px;
+	display: block;
+	margin-top: 20px;
+	color: turquoise ;
+}
+#presentation{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+.por1 ,.por2, .por3{
+	width: 400px;
+	height: 500px;
+	border-radius: 15px;
+}
+span{
+	color: red;
+	font-size: 40px;
+	margin-left: 150px;
+}

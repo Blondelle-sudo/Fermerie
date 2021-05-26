@@ -1,0 +1,47 @@
+.description{
+	font-size: 30px;
+	display: block;
+	margin-top: 20px;
+	color: #DE3A99;
+	
+}
+body{
+	
+	background-color: white;
+	overflow-y: scroll;
+}
+.presentation {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	position: relative;
+}
+.mout1{
+	width: 400px;
+	height: 500px;
+
+}
+.mout2{
+	width: 470px;
+	height: 480px;
+	margin-left: 50px;
+}
+span{
+	color: red;
+	font-size: 40px;
+	margin-left: 150px;
+}
+footer{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+ 
+    margin-top: 0px;
+
+}
+.descripimg2{
+	margin-left: 200px;
+}
+.descripimg1{
+	width: 400px;
+}
